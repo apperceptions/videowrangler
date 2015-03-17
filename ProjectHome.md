@@ -1,0 +1,1 @@
+This is a plugin for displaying video on a WordPress blog.   Part of the Show in a Box project.  Originally forked from vPiP by Enric.  For more information, see http://showinabox.tv
